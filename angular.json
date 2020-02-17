@@ -50,6 +50,7 @@
               "src/assets"
             ],
             "styles": [
+              "/home/abc/Desktop/angular/my-angular-site/node_modules/bulma/css/bulma.css",
               "src/styles.scss"
             ],
             "scripts": []
